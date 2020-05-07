@@ -1,3 +1,9 @@
+<p align="center">
+  <img alt="Screen01" src="Git/screen01.png" width="45%">
+  <img alt="Screen02" src="Git/screen02.png" width="45%">
+</p>
+
+
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
