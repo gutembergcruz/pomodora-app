@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": null,
-  "packagerPort": null,
-  "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 2732,
+  "expoServerNgrokUrl": "https://5s-rn2.anonymous.app-pomodoro.exp.direct",
+  "packagerNgrokUrl": "https://packager.5s-rn2.anonymous.app-pomodoro.exp.direct",
+  "ngrokPid": 976,
   "webpackServerPort": null
 }
